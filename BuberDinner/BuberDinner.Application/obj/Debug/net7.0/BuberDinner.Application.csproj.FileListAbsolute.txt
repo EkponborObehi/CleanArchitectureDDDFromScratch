@@ -1,0 +1,15 @@
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.deps.json
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.dll
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.pdb
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.AssemblyReference.cache
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfo.cs
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.dll
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\refint\BuberDinner.Application.dll
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.pdb
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\ref\BuberDinner.Application.dll
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.dll
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.pdb
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CopyComplete

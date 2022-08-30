@@ -1,0 +1,12 @@
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.deps.json
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.dll
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.pdb
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.csproj.AssemblyReference.cache
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.AssemblyInfoInputs.cache
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.AssemblyInfo.cs
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.dll
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\refint\BuberDinner.Domain.dll
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.pdb
+C:\Users\EkponborObehiMary\Desktop\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Domain\obj\Debug\net7.0\ref\BuberDinner.Domain.dll
